@@ -1,2 +1,2 @@
-# Sudoku-Solver-
-Optimized Sudoku Solver 
+# Sudoku-Solver
+An Optimized Sudoku Solver Written in Prolog
